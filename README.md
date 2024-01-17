@@ -22,7 +22,12 @@ Copy and paste the following tag where you want to display the number of visitor
 <span class="s3_pv"></span>
 ```
 
+## Example
+
 The visitor count is displayed in the value attribute and textContent as shown in the code below.
 
 ![screenshot1](screenshot1.png)
+
+
+Stylize it with markup.
 ![screenshot2](screenshot2.png)
