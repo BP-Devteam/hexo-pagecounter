@@ -1,0 +1,1 @@
+hexo.extend.injector.register('head_end', ()=>{ return '<script src="https://cdn.jsdelivr.net/gh/BP-Devteam/sitescansense/s3module.min.js"></script>'});

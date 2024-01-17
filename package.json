@@ -1,0 +1,12 @@
+{
+  "name": "hexo-pagecounter",
+  "version": "1.0.0",
+  "description": "All pages of hexo display the number of visitors.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "BP-Devteam",
+  "license": "MIT"
+}
