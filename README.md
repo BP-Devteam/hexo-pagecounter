@@ -1,6 +1,6 @@
 # hexo-pagecounter
 
-All pages of [Hexo] display the number of visitors.
+All pages of [Hexo](https://hexo.io/) display the number of visitors.
 
 sitescansense library is used to display page visitors. * **It does not work on localhost** *
 
