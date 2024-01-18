@@ -22,12 +22,12 @@ Copy and paste the following tag where you want to display the number of visitor
 
 The visitor count is displayed in the value attribute and textContent as shown in the code below.
 
-![screenshot1](screenshot1.png)
+![screenshot1](https://github.com/BP-Devteam/hexo-pagecounter/blob/main/screenshot1.png)
 
 
 Stylize it with markup.
 
-![screenshot2](screenshot2.png)
+![screenshot2](https://github.com/BP-Devteam/hexo-pagecounter/blob/main/screenshot2.png)
 
 
 ## About *sitescansense* library
