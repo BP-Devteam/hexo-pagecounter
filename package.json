@@ -1,6 +1,6 @@
 {
   "name": "hexo-pagecounter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "All pages of hexo display the number of visitors.",
   "main": "index.js",
   "scripts": {
