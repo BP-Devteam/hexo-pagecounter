@@ -1,9 +1,5 @@
 # hexo-pagecounter
 
-[![Build Status](https://github.com/hexojs/hexo-generator-index/workflows/Tester/badge.svg?branch=master)](https://github.com/hexojs/hexo-generator-index/actions?query=workflow%3ATester)
-[![NPM version](https://badge.fury.io/js/hexo-generator-index.svg)](https://www.npmjs.com/package/hexo-generator-index)
-[![Coverage Status](https://img.shields.io/coveralls/hexojs/hexo-generator-index.svg)](https://coveralls.io/r/hexojs/hexo-generator-index?branch=master)
-
 All pages of [Hexo] display the number of visitors.
 
 sitescansense library is used to display page visitors. * **It does not work on localhost** *
@@ -30,4 +26,13 @@ The visitor count is displayed in the value attribute and textContent as shown i
 
 
 Stylize it with markup.
+
 ![screenshot2](screenshot2.png)
+
+
+## About *sitescansense* library
+
+SiteScanSense is a web analytics service similar to Google Analytics, used to collect and analyze statistics on website traffic and user interactions. Through this service, you can measure and improve the performance of your website.
+
+* SiteScanSense Home <https://www.sitescansense.com/>
+* SiteScanSense Library <https://github.com/BP-Devteam/sitescansense>
